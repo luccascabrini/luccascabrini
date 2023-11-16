@@ -8,6 +8,6 @@
 </div>
   
   
-- 🌱 Atualemnte estudo JavaScript e TypeScript com foco em front-end
-- 📫 e-mail: contatoluccascabrini@hotmail.com
+- 🌱 Atualemnte trabalho como desenvolvedor back-end utilizando a linguagem java
+- 📫 e-mail: luccascabrini7@gmail.com
 
