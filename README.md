@@ -8,6 +8,6 @@
 </div>
   
   
-- 🌱 Atualemnte trabalho como desenvolvedor back-end utilizando a linguagem java
+- 🌱 Atualmente trabalho como desenvolvedor back-end utilizando a linguagem java
 - 📫 e-mail: luccascabrini7@gmail.com
 
